@@ -1,0 +1,8 @@
+Broken nav links - done
+fixed images - done
+all img missing alt - done
+bad title - done
+logo doesnt return to home - NOT DONE
+CSS ordered - done
+CSS organized - done
+search engine opt. - done
