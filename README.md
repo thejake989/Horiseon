@@ -1,5 +1,5 @@
 # Horiseon
 
-[Horiseon](https://github.com/thejake989/Horiseon.git)
+[Horiseon](https://thejake989.github.io/Horiseon/)
 is an Online reputation managment company!
-![hello](assets\images\Expectation.png)
+![hello](./assets/images/Expectation.png)
